@@ -4,4 +4,4 @@
 
 Код с примерами находится в папке **example**
 
-Домашнее задание №1 - https://github.com/andshav/cs-in-frontend/src/homework1
+Домашнее задание №1 - https://github.com/andshav/cs-in-frontend/tree/main/src/homework1
